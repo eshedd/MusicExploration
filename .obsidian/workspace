@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Song Template.md",
+            "file": "Music/What a Fool Believes ~ The Doobie Brothers.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aed36eba0149bba1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Song Template.md",
+                "file": "Music/What a Fool Believes ~ The Doobie Brothers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Song Template.md"
+                "file": "Music/What a Fool Believes ~ The Doobie Brothers.md"
               }
             }
           }
@@ -117,9 +128,10 @@
   },
   "active": "79d40a8979b84ebb",
   "lastOpenFiles": [
+    "Music/What a Fool Believes ~ The Doobie Brothers.md",
     "Templates/Song Template.md",
     "README.md",
-    "Music/What a Fool Believes ~ The Doobie Brothers.md",
+    "conflict-files-obsidian-git.md",
     "Music/What a Fool Believes.md",
     "Templates/Untitled.md",
     "Untitled.md"
