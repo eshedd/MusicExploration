@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "e5e6fba6d9f5124b",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d40a8979b84ebb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Music/What a Fool Believes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "898298d3d8e4bf31",
+    "type": "split",
+    "children": [
+      {
+        "id": "583e1afecf0dc84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2bd9c220815ac2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66589c01de9646b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8801fe54bced23d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aac4bdb9a22da95",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bba132dcaf74680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edd5eefa32198879",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Music/What a Fool Believes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f65d33ea02637dfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2a1951d638b3461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "79d40a8979b84ebb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md"
+  ]
+}
