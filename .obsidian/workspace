@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music/What a Fool Believes.md",
+            "file": "Templates/Song Template.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/What a Fool Believes.md",
+                "file": "Templates/Song Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Song Template.md"
+              }
             }
           }
         ]
@@ -115,7 +117,11 @@
   },
   "active": "79d40a8979b84ebb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md"
+    "Templates/Song Template.md",
+    "README.md",
+    "Music/What a Fool Believes ~ The Doobie Brothers.md",
+    "Music/What a Fool Believes.md",
+    "Templates/Untitled.md",
+    "Untitled.md"
   ]
 }
