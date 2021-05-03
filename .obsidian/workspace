@@ -103,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Music/What a Fool Believes.md"
+              }
             }
           }
         ]
@@ -115,6 +117,7 @@
   },
   "active": "79d40a8979b84ebb",
   "lastOpenFiles": [
+    "Music/What a Fool Believes.md",
     "Untitled.md",
     "README.md"
   ]
