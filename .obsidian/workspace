@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1ee2a7be8f4069",
+        "id": "f80d94f06084e751",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music/What a Fool Believes ~ The Doobie Brothers.md",
+            "file": "Music/obvious ~ second thoughts.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/What a Fool Believes ~ The Doobie Brothers.md",
+                "file": "Music/obvious ~ second thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,13 +110,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d1ee2a7be8f4069",
+  "active": "f80d94f06084e751",
   "lastOpenFiles": [
+    "Music/obvious ~ second thoughts.md",
     "Music/What a Fool Believes ~ The Doobie Brothers.md",
+    "Untitled.md",
     "Templates/Song Template.md",
     "conflict-files-obsidian-git.md",
     "Music/What a Fool Believes.md",
-    "Untitled.md",
     "README.md"
   ]
 }
