@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79d40a8979b84ebb",
+        "id": "2d1ee2a7be8f4069",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Music/What a Fool Believes ~ The Doobie Brothers.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aed36eba0149bba1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -63,7 +52,7 @@
             "id": "f8801fe54bced23d",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           }
@@ -102,21 +91,16 @@
             "id": "f65d33ea02637dfc",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d2a1951d638b3461",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Music/What a Fool Believes ~ The Doobie Brothers.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -126,14 +110,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79d40a8979b84ebb",
+  "active": "2d1ee2a7be8f4069",
   "lastOpenFiles": [
     "Music/What a Fool Believes ~ The Doobie Brothers.md",
     "Templates/Song Template.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Music/What a Fool Believes.md",
-    "Templates/Untitled.md",
-    "Untitled.md"
+    "Untitled.md",
+    "README.md"
   ]
 }
